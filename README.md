@@ -6,16 +6,16 @@ This dataset contains house sale prices for King County, which includes Seattle.
 
 It's a great dataset for evaluating simple regression models.
 
-**Tags: ** Python, Scikit Learn, CatBoost, Regression, Decision Tree, Clustering
-**Dataset: ** https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+**Tags:** Python, Scikit Learn, CatBoost, Regression, Decision Tree, Clustering \
+**Dataset:** https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 ## Customer Market Segmentation
 
 This case requires to develop a customer segmentation to define marketing strategy. The
 sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 
-**Tags: ** Python, Scikit Learn, Clustering
-**Dataset: ** https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+**Tags:** Python, Scikit Learn, Clustering \
+**Dataset:** https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 ## Titanic
 
@@ -27,12 +27,12 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-**Tags: ** Python, Keras, Scikit Learn, CatBoost, Binary Classification
-**Dataset: ** https://www.kaggle.com/competitions/titanic/overview
+**Tags:** Python, Keras, Scikit Learn, CatBoost, Binary Classification \
+**Dataset:** https://www.kaggle.com/competitions/titanic/overview
 
 ## Job Placement
 
 Due to the growing need of educated and talented individuals, especially in developing countries, recruiting fresh graduates is a routine practice for organizations. Conventional recruiting methods and selection processes can be prone to errors and in order to optimize the whole process, some innovative methods are needed.
 
-**Tags: ** Python, Keras, Binary Classification
-**Dataset: ** https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
+**Tags:** Python, Keras, Binary Classification \
+**Dataset:** https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
