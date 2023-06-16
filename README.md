@@ -36,3 +36,10 @@ Due to the growing need of educated and talented individuals, especially in deve
 
 **Tags:** Python, Keras, Binary Classification \
 **Dataset:** https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
+
+## MNIST Dataset: Digit Recognizer
+
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “Hello World” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+**Tags:** Python, Keras, PyGame, Classification, CNN \
+**Dataset:** https://www.kaggle.com/code/ngbolin/mnist-dataset-digit-recognizer
