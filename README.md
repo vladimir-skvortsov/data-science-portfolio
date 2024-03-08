@@ -54,6 +54,12 @@ Answers to questions on Wikipedia articles.
 
 **Tags:** Python, LangChain, GigaChain, GigaChat
 
+## GigaChain Wikipedia RNG Q&A
+
+Questions generated based on Wikipedia articles.
+
+**Tags:** Python, LangChain, GigaChain, GigaChat
+
 ## LangChain RNG Q&A Probability Theory Telegram Bot
 
 Telegram Bot project integrates LangChain and ChatGPT to generate probability theory questions, assess user responses, and provide feedback. The unique feature of displaying correct answers using LaTeX images enhances understanding and engagement, offering an interactive approach to learning probability theory.
