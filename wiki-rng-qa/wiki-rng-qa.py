@@ -1,11 +1,10 @@
 import os
 import random
 from langchain.chat_models.gigachat import GigaChat
-from langchain.chains import ConversationalRetrievalChain
-from dotenv import load_dotenv
 from langchain_community.document_loaders import WikipediaLoader
 from langchain.evaluation.qa import QAGenerateChain
 from langchain.evaluation.qa import QAEvalChain
+from dotenv import load_dotenv
 
 load_dotenv()
 
